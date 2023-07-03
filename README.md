@@ -1,9 +1,11 @@
 # AdresDefteri
-Firebase ve MapKit kullanarak konum kaydetme ve yol tarifi alma uygulaması geliştirdim
-Konumlar için kişi başlığı ve fotoğrafı ekleme de yapılabilir
-Kaydedilen konumlar veri tabanından kolayca silinebilir
-Hesaba bir kez giriş yapıldığında kullanıcı çıkış yapmadıkça kapanmaz
-Hemen hemen her kod bloğu için yorum satırı ekledim, kolaylıkla yol gösterici olarak kullanabilirsiniz
+## Firebase ve MapKit kullanarak konum kaydetme ve yol tarifi alma uygulaması geliştirdim
+##Konumlar için kişi başlığı ve fotoğrafı ekleme de yapılabilir
+## Kaydedilen konumlar veri tabanından kolayca silinebilir
+## Hesaba bir kez giriş yapıldığında kullanıcı çıkış yapmadıkça kapanmaz
+## Hemen hemen her kod bloğu için yorum satırı ekledim, kolaylıkla yol gösterici olarak kullanabilirsiniz
+
+
 <img width="364" alt="mapapp-kaydol" src="https://github.com/zehraCoskun/AdresDefteri/assets/110024096/337eeaa3-155d-4bba-b92c-64262c3e9edd">
 <img width="364" alt="mapapp-giris" src="https://github.com/zehraCoskun/AdresDefteri/assets/110024096/dbee3069-f064-4583-bc84-b35abacdbdd2">
 <img width="364" alt="mapapp-home" src="https://github.com/zehraCoskun/AdresDefteri/assets/110024096/5908df02-469b-4a6c-99fa-053614e222f9">
